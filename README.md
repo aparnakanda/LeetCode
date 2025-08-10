@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions by Aparna Kanda
+# 📚 LeetCode Solutions by Aparna Kanda
 
 Welcome to my **LeetCode Solutions** repository!  
 This repo contains my solutions to various LeetCode problems, written in clean and well-documented code.  
